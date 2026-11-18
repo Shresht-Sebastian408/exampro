@@ -1,0 +1,9 @@
+target/
+data/
+*.mv.db
+*.trace.db
+.idea/
+*.iml
+.vscode/
+Aoop_aq2_Report Format.docx
+*.lock.db
