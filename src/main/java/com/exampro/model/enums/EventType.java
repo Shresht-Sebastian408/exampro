@@ -1,0 +1,14 @@
+package com.exampro.model.enums;
+
+public enum EventType {
+    FOCUS_LOST,
+    FOCUS_REGAINED,
+    WINDOW_RESIZED,
+    COPY_ATTEMPT,
+    PASTE_ATTEMPT,
+    IDLE_TIMEOUT,
+    RAPID_ANSWER,
+    MULTI_DISPLAY_DETECTED,
+    FULLSCREEN_EXIT,
+    SNAPSHOT_CAPTURED
+}
